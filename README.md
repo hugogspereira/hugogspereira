@@ -16,4 +16,4 @@
 - LinkedIn: this is [MY LINKEDIN](https://www.linkedin.com/in/hugogspereira/).
 - Feel free to send me a message!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugogspereira)](https://github.com/hugogspereira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugogspereira&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
