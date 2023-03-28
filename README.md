@@ -11,7 +11,13 @@
 </p>
 
 
-## About me
-- I am a MSc Student at NOVA School Of Science and Technology.
-- LinkedIn: this is [MY LINKEDIN](https://www.linkedin.com/in/hugogspereira/).
-- Feel free to send me a message!
+# 💻 About Me:
+🌱 I am a MSc Student at NOVA School Of Science and Technology.
+🌐 LinkedIn: this is [MY LINKEDIN](https://www.linkedin.com/in/hugogspereira/).
+💬 Feel free to send me a message!
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hugogspereira&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hugogspereira&theme=blueberry&hide_border=false)<br/>
+
+---
