@@ -17,10 +17,7 @@
 💬 Feel free to send me a message! <br>
 
 # 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=hugogspereira&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
-</p>
-<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hugogspereira&theme=blueberry&hide_border=false)<br/>
-</p>
+
 ---
