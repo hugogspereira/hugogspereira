@@ -18,6 +18,5 @@
 
 # 📊 GitHub Stats:
 <p align="center"> 
-	<img src="https://streak-stats.demolab.com/?user=hugogspereira&theme=dark" /> 
+	<img src="https://streak-stats.demolab.com/?user=hugogspereira&theme=blueberry" /> 
 </p>
----
