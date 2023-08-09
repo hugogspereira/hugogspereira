@@ -17,6 +17,6 @@
 💬 Feel free to send me a message! <br>
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hugogspereira)](https://git.io/streak-stats)<br/>
+![](https://streak-stats.demolab.com/?user=hugogspereira&theme=dark)<br/>
 
 ---
