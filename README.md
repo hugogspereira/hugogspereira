@@ -17,6 +17,7 @@
 💬 Feel free to send me a message! <br>
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=hugogspereira&theme=dark)<br/>
-
+<p align="center"> 
+	<img src="https://streak-stats.demolab.com/?user=hugogspereira&theme=dark" /> 
+</p>
 ---
